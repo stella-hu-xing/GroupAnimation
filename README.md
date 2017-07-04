@@ -13,7 +13,7 @@ This project is based on autonomous agent's behaviors and Unity 3D Engine to bui
 
 [![Vedio](pics/2.objective.png)](https://youtu.be/Te3ljpninPs)
 
-[![Vedio](pics/3. follow leader.png)](https://youtu.be/Te3ljpninPs)
+[![Vedio](pics/3.followleader.png)](https://youtu.be/Te3ljpninPs)
 
 [![Vedio](pics/5.environment.png)](https://youtu.be/Te3ljpninPs)
 
